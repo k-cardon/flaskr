@@ -1,2 +1,2 @@
 # flaskr
-Blogging application built in flask
+Group blogging application built in flask
